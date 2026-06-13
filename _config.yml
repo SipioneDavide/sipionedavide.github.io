@@ -24,13 +24,13 @@ repository               : "sipionedavide.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Davide Sipione"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Controlling Traffic"
+  location         : "Torino"
+  employer         : "Politecnico di Torino"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "davide.sipione@polito.it" 
 
   # Academic websites
   academia         : # URL
