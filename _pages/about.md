@@ -25,5 +25,4 @@ My work focuses on mathematical modeling, dynamical systems, and optimization, w
 
 - Dynamical systems  
 - Optimization and control theory  
-- Network flow models  
-- Mathematical modeling of complex systems
+- Multi-Commodity Network flow models  
