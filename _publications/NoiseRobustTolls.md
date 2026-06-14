@@ -7,7 +7,7 @@ venue: Preprints
 date: 2026-06-14
 excerpt: We propose a distributed tolling scheme for logit-based congestion games and prove convergence to optimal expected travel time.
 permalink: /publication/NoiseRobustTollsInAtomicCongestionGames
-paperurl: 'https://sipionedavide.github.io/files/CPHS_final.pdf'
+paperurl: 'https://sipionedavide.github.io/files/CPHS-final.pdf'
 citation: 
 ---
 
