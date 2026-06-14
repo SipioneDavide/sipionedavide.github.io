@@ -2,6 +2,7 @@
 title: "On the Stability of Dynamical Multi-Commodity Flow Networks"
 collection: publications
 category: conferences
+excerpt: 
 permalink: /publication/OnStabilityOfMultiCommodityFlowNetworks
 date: 2025-12-09
 venue: '2025 IEEE 64th Conference on Decision and Control (CDC)'
