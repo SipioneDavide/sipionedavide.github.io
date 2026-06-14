@@ -2,7 +2,8 @@
 title: "Noise-Robust Tolls in Atomic Congestion
 Games"
 collection: publications
-category: Preprints
+category: pre-prints
+venure: Preprints
 date: 2026-06-14
 excerpt: We propose a distributed tolling scheme for logit-based congestion games and prove convergence to optimal expected travel time.
 permalink: /publication/NoiseRobustTollsInAtomicCongestionGames
