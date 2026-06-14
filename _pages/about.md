@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Davide Sipione - PhD Student in Mathematical Sciences"
+title: "Davide Sipione"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-PhD Student in Mathematical Sciences 
+PhD Student in Mathematical Sciences.
+
 Department of Mathematical Sciences, Politecnico di Torino
 
 ---
