@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-# Davide Sipione
-
-PhD Researcher in Mathematics  
-Politecnico di Torino
+PhD Student in Mathematical Sciences 
+Department of Mathematical Sciences, Politecnico di Torino
 
 ---
 
